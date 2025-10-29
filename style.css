@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Gothic;
+    src: url(/font/Gothic\ 821\ Condensed.woff);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Gothic;
+}
+
+:root{
+    --fresh-mint: #275848;
+    --dark-fresh-mint: #163027;
+    --banana-skin: #F6D700;
+    --pure-white: #FFF;
+    --mint-cream: #fafbf8;
+    --rose-white: #F1FAEA;
+}
+
+body{
+    background: var(--mint-cream);
+}
