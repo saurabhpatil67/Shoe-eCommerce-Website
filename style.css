@@ -1,6 +1,6 @@
 @font-face {
-    font-family: Gothic;
-    src: url(/font/Gothic\ 821\ Condensed.woff);
+    font-family: 'Gothic';
+    src: url('font/Gothic821Condensed.woff') format('woff');
 }
 
 * {
