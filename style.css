@@ -409,7 +409,7 @@ h3 {
 .intro-image {
     width: 100%;
     height: 85vh;
-    background-image: url("/image/shoe\ bg.jpeg");
+    background-image: url("image/shoe_bg.jpeg");
     background-repeat: no-repeat;
     border-radius: 5rem;
     background-position: bottom;
