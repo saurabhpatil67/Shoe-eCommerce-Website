@@ -7,7 +7,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Gothic;
+    font-family:'Gothic';
 }
 
 :root {
@@ -101,7 +101,7 @@ img {
     font-size: 1.1rem;
     color: var(--dark-fresh-mint);
     text-transform: uppercase;
-    font-family: Gothic;
+    font-family: 'Gothic';
 }
 
 /* section styling  */
